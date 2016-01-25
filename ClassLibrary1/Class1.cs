@@ -1,6 +1,6 @@
 ﻿namespace ClassLibrary1
 {
-    public static class Class
+    public class Class1
     {
     }
 }
