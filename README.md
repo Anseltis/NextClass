@@ -2,7 +2,7 @@ sample application for students
 
 #CategoryController
 
-```\\\[zxczxc\\\]```
+\\\[zxczxc\\\]
 
 [create an anchor](#anchors-in-markdown)
 
