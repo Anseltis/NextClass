@@ -25,4 +25,4 @@ sample application for students
 | SelectByName  | ```IEnumerable<Category>```  | ```string name```  | Fetches category list with target name. |
 | Create  | ```Category```  | ```string name```  | Category a new instance of the category. |
 
-```[zxczxc]```
+```\[zxczxc\]```
