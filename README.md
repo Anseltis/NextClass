@@ -44,7 +44,7 @@ sample application for students
 | Create  | ```Category```  | ```string name```  | Category a new instance of the category. |
 
 
-(#anchors-in-markdown)
+# anchors-in-markdown
 
 |Method name| Arguments|Return|Description
 | :-- | :-- | :-- | :-- |
