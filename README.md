@@ -5,7 +5,7 @@ sample application for students
 [create an anchor](#anchors-in-markdown)
 
 
-* [SelectAll](#SelectAll)
+* [SelectAll](#selectall)
 * SelectById
 * SelectByName
 * Create
@@ -16,7 +16,7 @@ sample application for students
 # ICategoryController.SelectAll
 
 # anchors-in-markdown
-# SelectAll
+# selectall
 
 |Method name| Arguments|Return|Description
 | :-- | :-- | :-- | :-- |
