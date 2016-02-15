@@ -16,7 +16,7 @@ sample application for students
 # ICategoryController.SelectAll
 
 # anchors-in-markdown
-# selectall
+# (selectall)
 
 |Method name| Arguments|Return|Description
 | :-- | :-- | :-- | :-- |
