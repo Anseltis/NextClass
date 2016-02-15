@@ -2,7 +2,8 @@ sample application for students
 
 #CategoryController
 
-[[zxczxc]]
+&#91;OperationContract&#93;
+IEnumerable<Category> SelectAll();
 
 [create an anchor](#anchors-in-markdown)
 
