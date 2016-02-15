@@ -2,7 +2,7 @@ sample application for students
 
 #CategoryController
 
-[This link does not work.](#Heading)
+[create an anchor](#anchors-in-markdown)
 
 |Method name| Arguments|Return|Description
 | :-- | :-- | :-- | :-- |
@@ -42,7 +42,9 @@ sample application for students
 | SelectById  | ```int id```  | ```Category```  | Fetches single category by primary key. |
 | SelectByName  | ```IEnumerable<Category>```  | ```string name```  | Fetches category list with target name. |
 | Create  | ```Category```  | ```string name```  | Category a new instance of the category. |
-#Heading
+
+
+(#anchors-in-markdown)
 
 |Method name| Arguments|Return|Description
 | :-- | :-- | :-- | :-- |
