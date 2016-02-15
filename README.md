@@ -3,15 +3,18 @@ sample application for students
 #CategoryController
 
 [create an anchor](#anchors-in-markdown)
--* [SelectAll](#ICategoryController.SelectAll)
- +* [SelectAll](#SelectAll)
-  * SelectById
-  * SelectByName
-  * Create
-   * Check
-  
-  # Controllers description
- -# ICategoryController.SelectAll
+
+
+* [SelectAll](#ICategoryController.SelectAll)
+* [SelectAll](#SelectAll)
+* SelectById
+* SelectByName
+* Create
+* Check
+
+ 
+# Controllers description
+# ICategoryController.SelectAll
 
 # anchors-in-markdown
 
