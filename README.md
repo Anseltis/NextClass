@@ -1,4 +1,4 @@
-sample application for students
+sample application for students #2
 
 #CategoryController
 
